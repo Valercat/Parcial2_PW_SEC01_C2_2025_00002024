@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "68f97f3fba27f6e8d87ebfd5",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,526.52",
+    "client": "Justice Malone",
+    "gender": "male"
+  },
+  {
+    "_id": "68f97f3f8629c4b5c5242830",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,616.65",
+    "client": "Annette Cooper",
+    "gender": "female"
+  },
+  {
+    "_id": "68f97f3fc01c3d527159571b",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$1,265.50",
+    "client": "Tyson Ashley",
+    "gender": "male"
+  },
+  {
+    "_id": "68f97f3f20c6bd8cc810863d",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,712.01",
+    "client": "Lavonne Bowman",
+    "gender": "female"
+  },
+  {
+    "_id": "68f97f3f1f52839b752612fa",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$1,991.06",
+    "client": "Mckenzie Carrillo",
+    "gender": "male"
+  },
+  {
+    "_id": "68f97f3f9230bfbac31b24c5",
+    "isActive": false,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,197.20",
+    "client": "Kline Fuller",
+    "gender": "male"
+  },
+  {
+    "_id": "68f97f3f727173556c6f6992",
+    "isActive": true,
+    "picture": "http://placehold.it/32x32",
+    "balance": "$2,626.25",
+    "client": "Summer Hart",
+    "gender": "female"
+  }
+]
